@@ -1984,6 +1984,9 @@ footer {
   .services__img {
     display: none;
   }
+  .services__grid-body{
+    margin: 0 auto 60px;
+  }
 
   .apoitment__body {
     display: -webkit-box;
